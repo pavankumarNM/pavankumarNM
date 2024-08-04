@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-- 🔭 I'm currently working on ReactJS projects . 
+- 🔭 I'm currently working on Devops Technologies . 
 
 
 
